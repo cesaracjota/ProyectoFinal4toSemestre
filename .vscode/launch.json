@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "io.mahesh.backend.DemoApplication",
+            "projectName": "backend",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootSecurityJwtApplication<spring-boot-security-jwt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bezkoder.springjwt.SpringBootSecurityJwtApplication",
+            "projectName": "spring-boot-security-jwt",
+            "args": ""
+        }
+    ]
+}

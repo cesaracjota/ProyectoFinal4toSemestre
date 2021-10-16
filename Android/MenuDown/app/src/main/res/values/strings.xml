@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CTC</string>
+    <string name="title_favorite">Favoritos</string>
+    <string name="title_map">Maps</string>
+    <string name="title_vehiculos">Vehiculos</string>
+    <string name="clave_api">AIzaSyDYxT41-fzBhkd6_EKBjTEnX-dP9rrA1XA</string>
+    <string name="claveapi_place">AIzaSyCVgZgkGZjYbmC41e1Nzdl_hl_Gv0Y2IbY</string>
+
+    <string name="urlAPI">http://192.168.1.20:8000</string>
+</resources>

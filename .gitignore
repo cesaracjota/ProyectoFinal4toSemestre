@@ -1,0 +1,14 @@
+credentials.js
+Backend/Django/myvenv
+Backend/Django/gestion/.scannerwork/
+Frontend/React.js/.scannerwork/
+Backend/Django/gestion/gestion/__pycache__/
+Backend/Django/gestion/workers/__pycache__/
+Backend/Django/gestion/vehicles/__pycache__/
+Backend/Django/gestion/workers/migrations/__pycache__/
+
+Android/MenuDown/gradlew
+Android/MenuDown/gradlew
+Backend/Django/uploaded_media/*
+Backend/Django/gestion/vehicles/migrations/__pycache__
+Android/MenuDown/app/src/main/res/drawable-v24/ic_vehicle.xml

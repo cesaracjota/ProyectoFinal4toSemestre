@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/card_view"
+    android:layout_margin="0dp"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardElevation="20dp"
+    card_view:contentPadding="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginHorizontal="10dp"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/buses"
+            android:baselineAligned="true"
+            android:layout_weight="1.5">
+            <ImageView
+                android:id="@+id/item_logo"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/buss_icon"/>
+
+            <TextView
+                android:id="@+id/item_modelo"
+                android:layout_width="match_parent"
+                android:layout_height="25sp"
+                android:text="Modelo"
+                android:textStyle="normal|bold"
+                android:gravity="center_vertical"
+                android:textColor="@color/black"
+                android:textSize="18dp"/>
+        </LinearLayout>
+
+        <TextView
+        android:id="@+id/item_empresa"
+        android:layout_width="match_parent"
+        android:layout_height="35sp"
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:text="E. de T. PETITO"
+        android:textStyle="normal"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:textSize="16dp"/>
+
+        <Button
+            android:id="@+id/moredetails"
+            android:layout_width="54dp"
+            android:layout_height="25dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:background="@drawable/button"
+            android:text="+ info"
+            android:textSize="10dp" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+</LinearLayout>
+
+
+
+
+

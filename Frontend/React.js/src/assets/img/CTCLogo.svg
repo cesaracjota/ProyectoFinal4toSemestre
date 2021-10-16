@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1299" height="283" viewBox="0 0 1299 283">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 8px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 66.667px;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-7 {
+        font-family: Stencil;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 100px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-size: 125px;
+      }
+
+      .cls-6 {
+        fill: #4fc7f4;
+        font-family: "Franklin Gothic Medium";
+      }
+
+      .cls-7 {
+        fill: #1807ff;
+      }
+    </style>
+    <path id="text-path"/>
+  </defs>
+  <path id="Polígono_1" data-name="Polígono 1" class="cls-1" d="M250.5,203.3L144.083,264.832l-106.5-61.391L37.5,80.513,143.917,18.977l106.5,61.391Z"/>
+  <text id="TU" class="cls-2" x="721" y="141.799">TU</text>
+  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-2" x="957.001" y="434.232">Lorem Ipsum</text>
+  <path id="Polígono_2" data-name="Polígono 2" class="cls-1" d="M217.5,180.688l-74.356,41.941-73.5-43.423L70.5,93.841,144.856,51.9l73.5,43.423Z"/>
+  <text class="cls-3"><textPath xlink:href="#text-path"><tspan class="cls-4">C</tspan></textPath></text>
+  <text id="CHAPA" class="cls-5" x="301" y="178.725">CHAPA</text>
+  <text id="COMBI" class="cls-6" x="825" y="176.73">COMBI</text>
+  <text id="Lorem_Ipsum-2" data-name="Lorem Ipsum" class="cls-7" x="1060.5" y="515.091">Lorem Ipsum</text>
+</svg>

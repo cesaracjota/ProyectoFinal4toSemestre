@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1299" height="283" viewBox="0 0 1299 283">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 10px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 75px;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        font-family: Stencil;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 150px;
+      }
+
+      .cls-4 {
+        fill: #4fc7f4;
+        font-family: "Franklin Gothic Medium";
+      }
+
+      .cls-5 {
+        font-size: 125px;
+      }
+    </style>
+  </defs>
+  <path id="Polígono_1" data-name="Polígono 1" class="cls-1" d="M222.5,203.3L116.083,264.832,9.583,203.441,9.5,80.513,115.917,18.977l106.5,61.391Z"/>
+  <text id="TU" class="cls-2" x="748.001" y="145.799">TU</text>
+  <path id="Polígono_2" data-name="Polígono 2" class="cls-1" d="M189.5,180.688l-74.356,41.941-73.5-43.423L42.5,93.841,116.856,51.9l73.5,43.423Z"/>
+  <text id="CHAPA" class="cls-3" x="257.499" y="182.227">CHAPA</text>
+  <text id="COMBI" class="cls-4" x="851.5" y="188.228">COMBI</text>
+  <text id="C" class="cls-5" x="80" y="180.19">C</text>
+</svg>
